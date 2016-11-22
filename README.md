@@ -1,2 +1,2 @@
 # reseller-godaddy-emailerror
-trying to figure out nwhy this link causes redirect to empoty GoDaddy cart
+trying to figure out why this link causes a redirect to an empty GoDaddy cart
